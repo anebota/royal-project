@@ -7,13 +7,13 @@
  <packaging>war</packaging>
  <version>0.0.1-SNAPSHOT</version>
  
- <name>vin-solutions-app</name>
+ <name>cloudFourteen.royal-project</name>
 
  <description>CICD jenkins Java Project</description>
 
  <organization>
-  <name>Vin Technologies</name>
-  <url>http://vintech.com/</url>
+  <name>cloudFourteen</name>
+  <url>http://cloud14.org/</url>
  </organization>
 
  <properties>
@@ -22,13 +22,13 @@
   <spring.version>5.1.2.RELEASE</spring.version>
   <junit.version>4.11</junit.version>
   <log4j.version>1.2.17</log4j.version>
-  <sonar.host.url>sonarqube-url</sonar.host.url>
-  <sonar.login>sonarqube-login</sonar.login>
-  <sonar.password>sonarqube-passwd</sonar.password>
+  <sonar.host.url>http://localhost:9000</sonar.host.url>
+  <sonar.login>admin</sonar.login>
+  <sonar.password>Bakayoko@83</sonar.password>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-  <sonar.projectKey>sonarqube-token</sonar.projectKey>
-  <sonar.projectName>sonarqube-project-name</sonar.projectName>
+  <sonar.projectKey>squ_200b445483662beae6eae52b8d94b16008c167b6</sonar.projectKey>
+  <sonar.projectName>cloudFourteen.royal-project</sonar.projectName>
         
  </properties>
 
@@ -113,7 +113,7 @@
  </distributionManagement>
  
  <build>
-  <finalName>dev-init-app-v1</finalName>
+  <finalName>cloudFourteen.royal-project</finalName>
   
   <plugins>
    <plugin>
