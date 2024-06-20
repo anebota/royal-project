@@ -189,7 +189,7 @@
         <img src="https://yoko-bucket.s3.us-west-2.amazonaws.com/IMG-20190410-WA0131.jpg" style="width:100%" class="w3-margin-bottom">
         <p>Dear Beloved Students,
 
-As the sun sets on this chapter of our journey together, my heart swells with bittersweet emotions. It feels like just yesterday when you walked into my classroom, wide-eyed and eager to learn. Now, you stand at the threshold of new adventures, ready to spread your wings and soar.
+As the sun sets on this chapter of our journey together, my heart will swell with bittersweet emotions. It feels like just yesterday when you walked into my classroom, wide-eyed and eager to learn. Now, you stand at the threshold of new adventures, ready to spread your wings and soar.
 
 You are my constellations, each one unique and brilliant. Your laughter, your questions, your dreams—they have woven themselves into the very fabric of my being. You've taught me as much as I've taught you, and for that, I am forever grateful.
 
