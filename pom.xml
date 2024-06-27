@@ -22,12 +22,12 @@
   <spring.version>5.1.2.RELEASE</spring.version>
   <junit.version>4.11</junit.version>
   <log4j.version>1.2.17</log4j.version>
-  <sonar.host.url>http://localhost:9000</sonar.host.url>
+  <sonar.host.url>http://35.88.183.127:9000/</sonar.host.url>
   <sonar.login>admin</sonar.login>
   <sonar.password>Bakayoko@83</sonar.password>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-  <sonar.projectKey>squ_200b445483662beae6eae52b8d94b16008c167b6</sonar.projectKey>
+  <sonar.projectKey>squ_2437ad840cac92038c7362bfd8298cc90531349a</sonar.projectKey>
   <sonar.projectName>cloudFourteen.royal-project</sonar.projectName>
         
  </properties>
