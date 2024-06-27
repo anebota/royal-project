@@ -99,15 +99,15 @@
  
  <distributionManagement>
      <repository>
-       <id>cloud14-royal-project-release</id>
-       <name>cloud14-royal-project-release</name>
-       <url>http://localhost:8081/repository/cloud14-royal-project-release</url>
+       <id>allen-app-release</id>
+       <name>allen-app-release</name>
+       <url>http://http://44.202.154.173:8081</url>
      </repository>
      
      <snapshotRepository>
-       <id>cloud14-royal-project-snapshot</id>
-       <name>cloud14-royal-project-snapshot</name>
-       <url>http://localhost:8081/repository/cloud14-royal-project-snapshot</url>
+       <id>allen-app-snapshot</id>
+       <name>allen-app-snapshot</name>
+       <url>http://http://44.202.154.173:8081</url>
      </snapshotRepository>
      
  </distributionManagement>
