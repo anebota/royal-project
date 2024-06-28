@@ -175,7 +175,7 @@
         <span class="w3-right w3-opacity">16 min</span>
         <h4>Helen Burns</h4><br>
         <hr class="w3-clear">
-        <p>“Together, we thrive.” 🌍</p>
+        <p>Love is the universal language that needs no translation</p>
         <button type="button" class="w3-button w3-theme-d1 w3-margin-bottom"><i class="fa fa-thumbs-up"></i>  Like</button> 
         <button type="button" class="w3-button w3-theme-d2 w3-margin-bottom"><i class="fa fa-comment"></i>  Comment</button> 
       </div>  
@@ -185,7 +185,7 @@
         <span class="w3-right w3-opacity">32 min</span>
         <h4>Hocam Meliha</h4><br>
         <hr class="w3-clear">
-        <p>sevgili öğrencilerim</p>
+        <p> sevgili öğrencilerim </p>
         <img src="https://yoko-bucket.s3.us-west-2.amazonaws.com/IMG-20190410-WA0131.jpg" style="width:100%" class="w3-margin-bottom">
         <p>Dear Beloved Students,
 
