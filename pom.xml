@@ -7,7 +7,7 @@
  <packaging>war</packaging>
  <version>0.0.1-SNAPSHOT</version>
  
- <name>cloudFourteen.royal-project</name>
+ <name>webapp-project</name>
 
  <description>CICD jenkins Java Project</description>
 
@@ -22,13 +22,13 @@
   <spring.version>5.1.2.RELEASE</spring.version>
   <junit.version>4.11</junit.version>
   <log4j.version>1.2.17</log4j.version>
-  <sonar.host.url>http://35.88.183.127:9000/</sonar.host.url>
+  <sonar.host.url>http://localhost:9000/</sonar.host.url>
   <sonar.login>admin</sonar.login>
   <sonar.password>Bakayoko@83</sonar.password>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-  <sonar.projectKey>squ_2437ad840cac92038c7362bfd8298cc90531349a</sonar.projectKey>
-  <sonar.projectName>cloudFourteen.royal-project</sonar.projectName>
+  <sonar.projectKey>squ_83773adb359019b7aececcb6f8c908ff9d572089</sonar.projectKey>
+  <sonar.projectName>webapp-project</sonar.projectName>
         
  </properties>
 
@@ -113,7 +113,7 @@
  </distributionManagement>
  
  <build>
-  <finalName>cloudFourteen.royal-project</finalName>
+  <finalName>webapp-project</finalName>
   
   <plugins>
    <plugin>
