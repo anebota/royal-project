@@ -145,7 +145,7 @@
           <div class="w3-card w3-round w3-white">
             <div class="w3-container w3-padding">
               <h6 class="w3-opacity"><b>AWS Cloud Engineer | Cloud Security Engineer | DevOps Engineer<b></h6>
-              <p contenteditable="true" class="w3-border w3-padding">Status: “Together, we thrive.” 🌍!</p>
+              <p contenteditable="true" class="w3-border w3-padding">Status:Together, we thrive.🌍!</p>
               <button type="button" class="w3-button w3-theme"><i class="fa fa-pencil"></i>  Post</button> 
             </div>
           </div>
@@ -209,7 +209,7 @@ Farewell, my dear ones. May life's canvas be painted with joy, adventure, and lo
 
 With all my love,
 "Sizi çok seviyorum millet"
-May your paths be strewn with wildflowers and your hearts forever curious. Farewell, dear students! 🌟📚❤️
+May your paths be strewn with wildflowers and your hearts forever curious. Farewell, dear students! 
 .</p>
         <button type="button" class="w3-button w3-theme-d1 w3-margin-bottom"><i class="fa fa-thumbs-up"></i>  Like</button> 
         <button type="button" class="w3-button w3-theme-d2 w3-margin-bottom"><i class="fa fa-comment"></i>  Comment</button> 
