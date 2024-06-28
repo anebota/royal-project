@@ -99,15 +99,15 @@
  
  <distributionManagement>
      <repository>
-       <id>allen-app-release</id>
-       <name>allen-app-release</name>
-       <url>http://http://44.202.154.173:8081</url>
+       <id>webapp-project-release</id>
+       <name>webapp-project-release</name>
+       <url>http://localhost:8081/repository/webapp-project-release</url>
      </repository>
      
      <snapshotRepository>
-       <id>allen-app-snapshot</id>
-       <name>allen-app-snapshot</name>
-       <url>http://http://44.202.154.173:8081</url>
+       <id>webapp-project-snapshot</id>
+       <name>webapp-project-snapshot</name>
+       <url>http://localhost:8081/repository/webapp-project-snapshot</url>
      </snapshotRepository>
      
  </distributionManagement>
