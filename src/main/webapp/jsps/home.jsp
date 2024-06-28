@@ -70,7 +70,7 @@
         <div class="w3-white">
           <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-theme-l1 w3-left-align"><i class="fa fa-circle-o-notch fa-fw w3-margin-right"></i> My Groups</button>
           <div id="Demo1" class="w3-hide w3-container">
-            <p>“Love is the universal language that needs no translation.” 💕</p>
+            <p> Love is the universal language that needs no translation.</p>
           </div>
           <button onclick="myFunction('Demo2')" class="w3-button w3-block w3-theme-l1 w3-left-align"><i class="fa fa-calendar-check-o fa-fw w3-margin-right"></i> My Events</button>
           <div id="Demo2" class="w3-hide w3-container">
@@ -145,7 +145,7 @@
           <div class="w3-card w3-round w3-white">
             <div class="w3-container w3-padding">
               <h6 class="w3-opacity"><b>AWS Cloud Engineer | Cloud Security Engineer | DevOps Engineer<b></h6>
-              <p contenteditable="true" class="w3-border w3-padding">Status:Together, we thrive.🌍!</p>
+              <p contenteditable="true" class="w3-border w3-padding">Status: Together, we thrive.!</p>
               <button type="button" class="w3-button w3-theme"><i class="fa fa-pencil"></i>  Post</button> 
             </div>
           </div>
