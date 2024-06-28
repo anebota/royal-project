@@ -113,7 +113,7 @@
  </distributionManagement>
  
  <build>
-  <finalName>webapp-project</finalName>
+  <finalName>webapp</finalName>
   
   <plugins>
    <plugin>
