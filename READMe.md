@@ -1,6 +1,6 @@
 # CICD with Jenkins
 # jenkins tomcat
 # Benchmark should be atleast %75
-# But %70 benchmark is still passable
+# CICD deployment is successful.
 
 ![1718071820068](image/READMe/1718071820068.png)
