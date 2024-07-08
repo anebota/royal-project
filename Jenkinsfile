@@ -54,7 +54,7 @@ pipeline {
         stage('Run Docker Container') {
             steps {
                 script {
-                    sh "docker run --name royal-con --rm -d -p 8089:8080 ${env.DOCKERHUB_REPO}:latest"  // Run Docker container in detached mode
+                    sh "docker run --name royal-con2 --rm -d -p 8099:8080 ${env.DOCKERHUB_REPO}:latest"  // Run Docker container in detached mode
                 }
             }
         }
