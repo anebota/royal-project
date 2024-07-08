@@ -1,11 +1,11 @@
 pipeline {
-    agent { label 'agent1' }  // Replace 'wsl-agent' with the label of your agent
+    agent { label 'agent2' }  // Replace 'wsl-agent' with the label of your agent
 
     environment {
         GITHUB_REPO_URL = 'https://github.com/anebota/royal-project.git'
         BRANCH_NAME = 'main'  // Replace with your branch name if it's not 'main'
-        GITHUB_CREDENTIALS_ID = 'jenkins_Token_cred'  // Replace with your Jenkins GitHub credentials ID
-        DOCKERHUB_CREDENTIALS_ID = 'jenkins-dockerHub-cred'  // Replace with your Jenkins Docker Hub credentials ID
+        GITHUB_CREDENTIALS_ID = 'git-hub-token'  // Replace with your Jenkins GitHub credentials ID
+        DOCKERHUB_CREDENTIALS_ID = 'cicd-dockerhub-cred'  // Replace with your Jenkins Docker Hub credentials ID
         DOCKERHUB_REPO = 'anebota/jenkins-cicd-pipeline'  // Replace with your Docker Hub repository
     }
 
